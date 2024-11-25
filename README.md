@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xJRJ a.k.a. DJ Hybrid
+- 👋 Hi, I’m @0xJRJ a.k.a. Jay-R
 - 👀 I’m interested in ... #Cybersecurity #Cloud #AI #Networking #Pentesting
 - 🌱 I’m currently learning ... #CCNA and #Azure
 - 💞️ I’m looking to collaborate on ... any project related to my interests (on Cybersecurity, International Relations, Cloud, Networking and Pentesting)
